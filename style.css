@@ -321,13 +321,6 @@
 
   /* about-section */
   @media (max-width: 768px) {
-    .navbar-nav {
-        margin-top: 10px;
-    }
-
-    .navbar-brand {
-        font-size: 30px; /* Slightly smaller on mobile */
-    }
 
     .header-text-1 {
         font-size: 3rem; /* Smaller header text on mobile */
